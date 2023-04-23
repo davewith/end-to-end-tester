@@ -142,6 +142,10 @@ all good, and with nice
 [recordings](https://automate.browserstack.com/dashboard/v2/public-build/ZjJMTTZDcVZnc2Ntdjd1ekg3ditxeHJ0M0kvemVNc09wVnp0RGxXWGgwOTEwbXR3K1FPVFpVaDU0b2xXMkR0cE5rU0RpTzEyREwzUDRZU2IrWU1wOUE9PS0tQmwxb0QrZVRiR2s5YjhFNUxRQ0FlUT09--cf6d314a1f6ebfc3b7392254e85250d4c272fae3)
 to send to the PMs.
 
+![Browserstack run](/readme_images/bs001.png)
+
+![Browserstack video](/readme_images/bs002.png)
+
 ### Note about test data:
 
 Testing when data changes is always a time sink, and at best we have scripts
