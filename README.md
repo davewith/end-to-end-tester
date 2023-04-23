@@ -53,8 +53,8 @@ Feature: Login functionality
 
   Scenario: Login with different types of credentials
     Given I am on the login page
-    When I enter "<email>" and "<password>"
-    Then I should see "<message>"
+    When I attempt to log in using "<email>" and "<password>"
+    Then I should see a message with "<message>"
 
     Examples:
       | email   | password  | result    |
